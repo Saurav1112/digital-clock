@@ -71,7 +71,7 @@ body{
 
 .opt{
     width: 170px;
-    color: #3D087B;
+    color: #08137b;
 }
 
 .optn{
@@ -79,7 +79,10 @@ body{
     color: #3D087B;
 }
 
-select option:hover{background-color:blue;}
+select option:hover {
+background-color:blue;
+} 
+
 
 .line{
     border-left: 2px solid black;

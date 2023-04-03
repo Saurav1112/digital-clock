@@ -107,7 +107,7 @@ function settalarm(){
     if(hours === parseInt(morn.value)){
         MG[0].innerText= 'GOOD MORNING!!WAKE UP!!'
         GM[0].innerText ='GRAB SOME HEALTHY BREAKFAST!!!'
-        photo[0].style.backgroundImage="url('./Component 30 - 1.jpg')"
+        photo[0].style.backgroundImage="url('./Component 30 – 1.jpg')"
     }
 
     else if(hours === parseInt(aft.value)){
